@@ -1,0 +1,9 @@
+🐙 Get Daily 400-500 Real Followers 👽 [BadRobo] is Best Instagram Bot Available Now with All Features!. Our BOT did not violate any of Instagram's rules, so you don't have to worry about getting ACTION BLOCK!
+
+INSTALLATION👇
+
+git clone https://github.com/jaleelx98/Bad-Robo.git
+cd Bad-Robo
+unzip Bad-Robo.zip
+pip install -r requirements.txt
+python badrobo.py
